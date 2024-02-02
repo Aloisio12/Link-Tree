@@ -38,6 +38,13 @@ button {
     cursor: pointer;
 }
 
+.buttons {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
 #socialLinks{
     display: flex;
     justify-content: center;
